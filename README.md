@@ -4,29 +4,30 @@
 
 ---
 
-## Команда
+## Команда проекта
 
 ## Структура
 
 - [Описание задачи](./1.Problem/README.md)
     - [Бизнес цели](./1.Problem/1.BusinessGoals.md)
-    - [Функциональные требования](./1.Problem/1.FunctionalRequirements.md)
-    - [Нефункциональные требования](./1.Problem/1.NonFunctionalRequirements.md)
-    - [Заинтересованные лица и события](./1.Problem/3.ActorsAndActions.md)
+    - [Функциональные требования](./1.Problem/2.FunctionalRequirements.md)
+    - [Нефункциональные требования](./1.Problem/3.NonFunctionalRequirements.md)
+    - [Заинтересованные лица и события](./1.Problem/4.ActorsAndActions.md)
 - [Основание для решения](./2.SolutionBackground/README.md)
     - [Видение](./2.SolutionBackground/1.Vision.md)
     - [Архитектурные принципы](./2.SolutionBackground/2.ArchitecturePrinciples.md)
     - [Описание архитектурных характеристик](./2.SolutionBackground/3.ArchitectureCharacters.md)
     - [Выбор архитектуры](./2.SolutionBackground/4.ArchitectureSelection.md)
-    - Описание компонентов
-    - Анализ сторонних решений
+    - [Описание компонентов](./2.SolutionBackground/5.Components.md)
+    - [Анализ сторонних решений](./2.SolutionBackground/6.ThirdPartySolutions.md)
     - [Рассматриваемые сценарии](./2.SolutionBackground/7.Scenarios.md)
-- [Решение](./4.Solution/README.md)
-    - [Модель C4](./4.Solution/1.FirstIteration/C4Models/README.md)
-        - [C1 - Контекстная диаграмма](./4.Solution/1.FirstIteration/C4Models/0.Legend.md)
-        - [C2 - Контейнерная диаграмма](./4.Solution/1.FirstIteration/C4Models/1.SystemContextDiagram.md)
-- [ARD](./3.ARDs/README.md)
-    - [ADR-000-шаблон](ADR/ADR-000-template.md)
+- [Решение](./3.Solution/README.md)
+    - [Модель C4](./3.Solution/1.C4/README.md)
+        - [C1 - Контекстная диаграмма](./4.Solution/1.C4/0.SystemContextDiagram.md)
+      - [C2 - Контейнерная диаграмма](./4.Solution/1.C4/1.ContainerDiagram.md)
+    - [Диаграмма развертывания](./3.Solution/2.DeploymentDiagram.md)
+- [ARD](./4.ARD/README.md)
+    - [ADR-000-шаблон](./4.ADR/ADR-000-template.md)
 
 
 ## Ресурсы
