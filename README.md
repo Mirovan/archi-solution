@@ -15,6 +15,7 @@
     - [Заинтересованные лица и события](./1.Problem/4.ActorsAndActions.md)
 - [Основание для решения](./2.SolutionBackground/README.md)
     - [Общий взгляд на решение](./2.SolutionBackground/1.Vision.md)
+    - [Общий взгляд на решение](./2.SolutionBackground/2.Components.md)
     - [Описание архитектурных характеристик](./2.SolutionBackground/3.ArchitectureCharacters.md)
     - [Выбор архитектуры](./2.SolutionBackground/4.ArchitectureSelection.md)
     - [Описание компонентов](2./.SolutionBackground/2.Components.md)
@@ -36,4 +37,4 @@
 - https://github.com/TheKataLog/Celus-Ceals
 - https://github.com/TheKataLog/Rapid-Response
 - [Архитектурные принципы](https://www.developertoarchitect.com/downloads/architecture-characteristics-worksheet.pdf)
-- [Выбор архитектуры по книге Ричардс, Форд: Фундаментальный подход к программной архитектуре](images/arch_select.png)
+- [Выбор архитектуры по книге Ричардс, Форд: Фундаментальный подход к программной архитектуре](2.SolutionBackground/images/arch_select.png)
