@@ -27,7 +27,7 @@
       - [C2 - Контейнерная диаграмма](./3.Solution/1.C4/1.ContainerDiagram.md)
     - [Диаграмма развертывания](./3.Solution/2.DeploymentDiagram.md)
     - [Стоимость владения](./3.Solution/3.Cost.md)
-- [ARD](./4.ARD/README.md)
+- [ADR](./4.ADR/README.md)
     - [ADR-000-шаблон](./4.ADR/ADR-000-template.md)
 
 
